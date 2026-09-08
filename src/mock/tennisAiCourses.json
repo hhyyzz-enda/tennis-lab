@@ -1,0 +1,352 @@
+[
+  {
+    "id": "course-forehand-serve",
+    "slug": "forehand-serve",
+    "title": {
+      "zh-CN": "正手发球",
+      "en-US": "Forehand Serve"
+    },
+    "subtitle": {
+      "zh-CN": "建立发球节奏与抛球稳定性",
+      "en-US": "Build Serving Rhythm and Toss Consistency"
+    },
+    "level": "L1",
+    "durationMinutes": 28,
+    "cover": "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?w=1200&q=80",
+    "overview": {
+      "zh-CN": "从站位、抛球到完整挥拍链路，帮助初学者建立可重复的发球动作。",
+      "en-US": "From stance and toss to full swing sequence, this course helps beginners build a repeatable service motion."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "抛球高度与击球点统一",
+        "en-US": "Align toss height with contact point"
+      },
+      {
+        "zh-CN": "重心前送与肩髋协同",
+        "en-US": "Coordinate forward transfer with shoulder-hip rotation"
+      },
+      {
+        "zh-CN": "发球后落地与回位",
+        "en-US": "Landing control and quick recovery after serve"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "forehand-serve.json",
+      "jointConfig": [
+        {
+          "key": "hip",
+          "label": "髋",
+          "color": "#f2b233"
+        },
+        {
+          "key": "chest",
+          "label": "胸",
+          "color": "#2b5cb8"
+        },
+        {
+          "key": "shoulder",
+          "label": "肩",
+          "color": "#49a65a"
+        },
+        {
+          "key": "elbow",
+          "label": "肘",
+          "color": "#d9534f"
+        }
+      ],
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-backhand-serve",
+    "slug": "backhand-serve",
+    "title": {
+      "zh-CN": "发球基础",
+      "en-US": "Serve Fundamentals"
+    },
+    "subtitle": {
+      "zh-CN": "建立稳定抛球与完整发力链",
+      "en-US": "Build Toss Consistency and Full Serve Chain"
+    },
+    "level": "L2",
+    "durationMinutes": 30,
+    "cover": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=1200&q=80",
+    "overview": {
+      "zh-CN": "聚焦标准发球动作，从准备、抛球到击球收拍，建立稳定且可重复的发球节奏。",
+      "en-US": "Focus on the standard serve sequence from setup and toss to contact and follow-through, building a repeatable serving rhythm."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "抛球点位稳定在身体前上方",
+        "en-US": "Keep toss placement stable in front-above contact zone"
+      },
+      {
+        "zh-CN": "下肢蹬转与躯干传导协同",
+        "en-US": "Coordinate leg drive with trunk force transfer"
+      },
+      {
+        "zh-CN": "击球后快速回位准备下一拍",
+        "en-US": "Recover quickly after contact for the next shot"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "发球.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-forehand-volley",
+    "slug": "forehand-volley",
+    "title": {
+      "zh-CN": "正手截击",
+      "en-US": "Forehand Volley"
+    },
+    "subtitle": {
+      "zh-CN": "缩短引拍，提高网前处理效率",
+      "en-US": "Compact Preparation for Faster Net Play"
+    },
+    "level": "L1",
+    "durationMinutes": 24,
+    "cover": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=1200&q=80",
+    "overview": {
+      "zh-CN": "通过网前脚步与拍面控制训练，让正手截击更稳、更快。",
+      "en-US": "Train footwork and racket-face control to make your forehand volley more stable and efficient."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "分腿垫步后第一步启动",
+        "en-US": "Explode after split-step timing"
+      },
+      {
+        "zh-CN": "拍头略高于手腕，减少挥拍幅度",
+        "en-US": "Keep the racket head slightly above wrist with short action"
+      },
+      {
+        "zh-CN": "击球后迅速回中封网",
+        "en-US": "Recover quickly to central net coverage"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "正手截击.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-backhand-volley",
+    "slug": "backhand-volley",
+    "title": {
+      "zh-CN": "反手截击",
+      "en-US": "Backhand Volley"
+    },
+    "subtitle": {
+      "zh-CN": "建立反手网前的拍面稳定",
+      "en-US": "Build Stable Backhand Net Contact"
+    },
+    "level": "L2",
+    "durationMinutes": 26,
+    "cover": "https://images.pexels.com/photos/13464786/pexels-photo-13464786.jpeg?w=1260&h=750&dpr=1",
+    "overview": {
+      "zh-CN": "聚焦反手截击击球点与躯干协同，减少失误并提升压迫力。",
+      "en-US": "Focus on contact timing and torso alignment to reduce errors and increase pressure at the net."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "肩部带动小幅度向前推送",
+        "en-US": "Drive forward through shoulder-led punch"
+      },
+      {
+        "zh-CN": "重心前压，不后仰",
+        "en-US": "Keep body weight forward at impact"
+      },
+      {
+        "zh-CN": "反手位封堵直线与斜线",
+        "en-US": "Cover both line and crosscourt from backhand side"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "反手截击.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-forehand-slice",
+    "slug": "forehand-slice",
+    "title": {
+      "zh-CN": "正手削球",
+      "en-US": "Forehand Slice"
+    },
+    "subtitle": {
+      "zh-CN": "控制低平来球与节奏变化",
+      "en-US": "Control Low Trajectory and Rhythm Change"
+    },
+    "level": "L2",
+    "durationMinutes": 32,
+    "cover": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1200&q=80",
+    "overview": {
+      "zh-CN": "学习如何用正手削球降低球速、压低弹跳并打乱对手节奏。",
+      "en-US": "Learn to reduce pace, keep bounce low, and disrupt opponent rhythm with forehand slice."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "拍面开放角度与下切方向",
+        "en-US": "Control open face angle and cutting path"
+      },
+      {
+        "zh-CN": "击球点保持在身体前侧",
+        "en-US": "Contact in front of the body"
+      },
+      {
+        "zh-CN": "结合落点深浅做战术变化",
+        "en-US": "Vary depth to create tactical pressure"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "正手削球_standard.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-backhand-slice",
+    "slug": "backhand-slice",
+    "title": {
+      "zh-CN": "反手削球",
+      "en-US": "Backhand Slice"
+    },
+    "subtitle": {
+      "zh-CN": "提升反手防守与过渡质量",
+      "en-US": "Improve Backhand Defense and Transition"
+    },
+    "level": "L1",
+    "durationMinutes": 27,
+    "cover": "https://images.pexels.com/photos/5741299/pexels-photo-5741299.jpeg?w=1260&h=750&dpr=1",
+    "overview": {
+      "zh-CN": "通过单手与双手反手削球模型，建立稳健的防守过渡能力。",
+      "en-US": "Use one-hand and two-hand slice models to build reliable backhand defensive transitions."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "提前侧身，保证下切轨迹",
+        "en-US": "Turn early to lock in the slicing path"
+      },
+      {
+        "zh-CN": "前臂与手腕保持稳定",
+        "en-US": "Keep forearm and wrist stable through impact"
+      },
+      {
+        "zh-CN": "削球后快速回到中位",
+        "en-US": "Recover to neutral position after slice"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "反手削球.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-topspin-forehand",
+    "slug": "topspin-forehand",
+    "title": {
+      "zh-CN": "反手击球",
+      "en-US": "Backhand Groundstroke"
+    },
+    "subtitle": {
+      "zh-CN": "提升反手稳定性与击球质量",
+      "en-US": "Improve Backhand Consistency and Ball Quality"
+    },
+    "level": "L2",
+    "durationMinutes": 34,
+    "cover": "https://images.pexels.com/photos/14629572/pexels-photo-14629572.jpeg?w=1260&h=750&dpr=1",
+    "overview": {
+      "zh-CN": "围绕反手击球的准备、转体与挥拍节奏，提升来回相持中的稳定落点和持续压迫能力。",
+      "en-US": "Build backhand stroke rhythm from setup, rotation, and swing timing to improve rally depth and sustained pressure."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "提前转肩，缩短反手准备时间",
+        "en-US": "Turn shoulders early to shorten backhand preparation"
+      },
+      {
+        "zh-CN": "击球点前置，保证拍面稳定穿透",
+        "en-US": "Contact in front for stable racket-face penetration"
+      },
+      {
+        "zh-CN": "收拍后迅速回中，保持连续对抗",
+        "en-US": "Recover quickly after follow-through for continuous rallies"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "反手击球.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  },
+  {
+    "id": "course-serve-return-basics",
+    "slug": "serve-return-basics",
+    "title": {
+      "zh-CN": "单手反拍",
+      "en-US": "One-Handed Backhand"
+    },
+    "subtitle": {
+      "zh-CN": "建立单反挥拍结构与稳定触球",
+      "en-US": "Build One-Handed Structure and Stable Contact"
+    },
+    "level": "L1",
+    "durationMinutes": 25,
+    "cover": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=1200&q=80",
+    "overview": {
+      "zh-CN": "从站位、引拍到击球后收拍，循序建立单手反拍的动作连贯性与落点控制。",
+      "en-US": "From stance and take-back to contact and follow-through, build one-handed backhand fluency and directional control."
+    },
+    "keyPoints": [
+      {
+        "zh-CN": "非持拍手辅助转体与节奏控制",
+        "en-US": "Use non-racket hand to assist rotation and rhythm"
+      },
+      {
+        "zh-CN": "击球点保持在身体前侧",
+        "en-US": "Keep contact point in front of the body"
+      },
+      {
+        "zh-CN": "收拍后重心回中，准备下一拍",
+        "en-US": "Recover center balance quickly after follow-through"
+      }
+    ],
+    "analysis": {
+      "component": "JointForceAnalysis",
+      "dataFile": "单手反拍.json",
+      "syncThreshold": 2,
+      "maxBarValue": 8.5,
+      "playSpeed": 0.03,
+      "autoPlay": true
+    }
+  }
+]

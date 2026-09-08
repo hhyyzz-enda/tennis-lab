@@ -1,0 +1,223 @@
+[
+  {
+    "id": "pc-basic-bg-001",
+    "type": "forehand",
+    "title": {
+      "zh-CN": "基础课程体系导览",
+      "en-US": "Foundation Program Overview"
+    },
+    "intro": {
+      "zh-CN": "从击球准备、节奏建立到回合组织，完整梳理基础课程学习路径。",
+      "en-US": "A complete overview of the foundation path from ready position and rhythm to rally structure."
+    },
+    "cover": "__basic_course_bg__",
+    "videoUrl": "https://www.bilibili.com/video/BV1vM4y1Q7XW",
+    "durationMinutes": 26,
+    "teacher": "Coach Lin",
+    "publishedAt": "2026-05-08"
+  },
+  {
+    "id": "pc-forehand-001",
+    "type": "forehand",
+    "title": {
+      "zh-CN": "正手稳定性基础课",
+      "en-US": "Forehand Stability Basics"
+    },
+    "intro": {
+      "zh-CN": "从引拍、重心转移到击球点控制，建立可复制的正手击球节奏。",
+      "en-US": "Build a repeatable forehand rhythm from backswing setup to contact-point control."
+    },
+    "cover": "https://images.unsplash.com/photo-1486286701208-1d58e9338013?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1xx411c7mD",
+    "durationMinutes": 18,
+    "teacher": "Coach Lin",
+    "publishedAt": "2026-03-12"
+  },
+  {
+    "id": "pc-serve-001",
+    "type": "serve",
+    "title": {
+      "zh-CN": "发球发力链路入门",
+      "en-US": "Serve Kinetic Chain Intro"
+    },
+    "intro": {
+      "zh-CN": "理解抛球、蹬转与挥拍传导关系，减少发球动作割裂感。",
+      "en-US": "Understand toss, leg drive, and swing transfer to reduce disconnect in serve motion."
+    },
+    "cover": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1ab411F7fW",
+    "durationMinutes": 22,
+    "teacher": "Coach Wang",
+    "publishedAt": "2026-03-26"
+  },
+  {
+    "id": "pc-footwork-001",
+    "type": "footwork",
+    "title": {
+      "zh-CN": "网球步法与启动训练",
+      "en-US": "Footwork and First-Step Training"
+    },
+    "intro": {
+      "zh-CN": "优化分腿垫步和第一步启动效率，提升回合中的到位率。",
+      "en-US": "Improve split-step timing and first-step efficiency to increase positioning quality."
+    },
+    "cover": "https://images.unsplash.com/photo-1595435934011-9f5f9f642a5b?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1ZZ4y1r7fR",
+    "durationMinutes": 16,
+    "teacher": "Coach Chen",
+    "publishedAt": "2026-04-08"
+  },
+  {
+    "id": "pc-tactics-001",
+    "type": "tactics",
+    "title": {
+      "zh-CN": "单打战术组织：先控后攻",
+      "en-US": "Singles Tactics: Control Then Attack"
+    },
+    "intro": {
+      "zh-CN": "通过落点与节奏变化组织回合，建立低风险得分思路。",
+      "en-US": "Use placement and tempo changes to build points with lower-risk scoring logic."
+    },
+    "cover": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1uK4y1d7e9",
+    "durationMinutes": 20,
+    "teacher": "Coach Zhao",
+    "publishedAt": "2026-04-15"
+  },
+  {
+    "id": "pc-forehand-002",
+    "type": "forehand",
+    "title": {
+      "zh-CN": "正手上旋稳定进阶",
+      "en-US": "Forehand Topspin Progression"
+    },
+    "intro": {
+      "zh-CN": "通过拍头加速与击球前肩髋协同，提升上旋质量与连续性。",
+      "en-US": "Improve topspin quality and consistency through racket-head acceleration and shoulder-hip sync."
+    },
+    "cover": "https://images.unsplash.com/photo-1531315630201-bb15abeb1653?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1w4411K7fQ",
+    "durationMinutes": 19,
+    "teacher": "Coach Lin",
+    "publishedAt": "2026-04-18"
+  },
+  {
+    "id": "pc-serve-002",
+    "type": "serve",
+    "title": {
+      "zh-CN": "二发上旋与落点控制",
+      "en-US": "Second Serve Spin and Placement"
+    },
+    "intro": {
+      "zh-CN": "在保证过网率前提下，训练二发旋转高度和落点稳定性。",
+      "en-US": "Train second-serve net clearance and placement consistency with safer spin trajectories."
+    },
+    "cover": "https://images.unsplash.com/photo-1617083934550-54ddde4f8d61?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1m54y1f7Pp",
+    "durationMinutes": 21,
+    "teacher": "Coach Wang",
+    "publishedAt": "2026-04-20"
+  },
+  {
+    "id": "pc-footwork-002",
+    "type": "footwork",
+    "title": {
+      "zh-CN": "底线横向移动效率课",
+      "en-US": "Baseline Lateral Movement Efficiency"
+    },
+    "intro": {
+      "zh-CN": "优化横向交叉步与回位路径，减少无效跑动和重心丢失。",
+      "en-US": "Optimize crossover steps and recovery paths to reduce wasted movement and balance loss."
+    },
+    "cover": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1Sx411M7cT",
+    "durationMinutes": 17,
+    "teacher": "Coach Chen",
+    "publishedAt": "2026-04-22"
+  },
+  {
+    "id": "pc-tactics-002",
+    "type": "tactics",
+    "title": {
+      "zh-CN": "接发后的第一拍策略",
+      "en-US": "First Shot Strategy After Return"
+    },
+    "intro": {
+      "zh-CN": "围绕接发后第一拍选线，建立主动组织与压制节奏。",
+      "en-US": "Build initiative after the return with better first-shot direction and tempo control."
+    },
+    "cover": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1xA411s7vJ",
+    "durationMinutes": 18,
+    "teacher": "Coach Zhao",
+    "publishedAt": "2026-04-24"
+  },
+  {
+    "id": "pc-forehand-003",
+    "type": "forehand",
+    "title": {
+      "zh-CN": "高球处理与重心控制",
+      "en-US": "High Ball Handling and Balance"
+    },
+    "intro": {
+      "zh-CN": "应对高弹跳来球，改善击球高度选择与重心回收速度。",
+      "en-US": "Handle high-bouncing balls with better contact-height selection and balance recovery."
+    },
+    "cover": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1fg4y1x7J4",
+    "durationMinutes": 20,
+    "teacher": "Coach Lin",
+    "publishedAt": "2026-04-26"
+  },
+  {
+    "id": "pc-serve-003",
+    "type": "serve",
+    "title": {
+      "zh-CN": "发球节奏与抛球一致性",
+      "en-US": "Serve Rhythm and Toss Consistency"
+    },
+    "intro": {
+      "zh-CN": "通过节奏分段训练提升抛球稳定度和发球动作连贯性。",
+      "en-US": "Improve toss repeatability and serve flow through segmented rhythm drills."
+    },
+    "cover": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1Lz4y1C7Mq",
+    "durationMinutes": 23,
+    "teacher": "Coach Wang",
+    "publishedAt": "2026-04-28"
+  },
+  {
+    "id": "pc-footwork-003",
+    "type": "footwork",
+    "title": {
+      "zh-CN": "抢点步法与上步击球",
+      "en-US": "Take-the-Ball-Early Footwork"
+    },
+    "intro": {
+      "zh-CN": "强化上步抢点击球时机，提高快节奏回合中的压迫感。",
+      "en-US": "Train early-contact footwork to create pressure in fast-paced rallies."
+    },
+    "cover": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1Hq4y1v7SG",
+    "durationMinutes": 15,
+    "teacher": "Coach Chen",
+    "publishedAt": "2026-05-02"
+  },
+  {
+    "id": "pc-tactics-003",
+    "type": "tactics",
+    "title": {
+      "zh-CN": "双打站位与轮转协同",
+      "en-US": "Doubles Positioning and Rotation"
+    },
+    "intro": {
+      "zh-CN": "理解双打前后站位切换逻辑，提升搭档协同与封网效率。",
+      "en-US": "Improve partner coordination and net pressure through better doubles rotations."
+    },
+    "cover": "https://images.unsplash.com/photo-1526676037777-05a232554f77?w=1200&q=80",
+    "videoUrl": "https://www.bilibili.com/video/BV1Qk4y1d7Fx",
+    "durationMinutes": 24,
+    "teacher": "Coach Zhao",
+    "publishedAt": "2026-05-05"
+  }
+]

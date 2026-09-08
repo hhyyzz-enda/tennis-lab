@@ -1,0 +1,298 @@
+{
+  "default": {
+    "key": "default",
+    "title": {
+      "zh-CN": "通用动作参考",
+      "en-US": "General Reference"
+    },
+    "peakOrder": [
+      "hip",
+      "chest",
+      "shoulder",
+      "elbow"
+    ],
+    "velocityBands": {
+      "hip": [
+        8,
+        48
+      ],
+      "chest": [
+        6,
+        42
+      ],
+      "shoulder": [
+        10,
+        54
+      ],
+      "elbow": [
+        12,
+        60
+      ]
+    },
+    "maxHipChestGap": 0.2
+  },
+  "forehand-serve": {
+    "key": "forehand-serve",
+    "title": {
+      "zh-CN": "正手发球",
+      "en-US": "Forehand Serve"
+    },
+    "sourceFile": "forehand-serve.json",
+    "peakOrder": [
+      "chest",
+      "hip",
+      "elbow",
+      "shoulder"
+    ],
+    "velocityBands": {
+      "hip": [
+        15,
+        66
+      ],
+      "chest": [
+        8,
+        38
+      ],
+      "shoulder": [
+        18,
+        84
+      ],
+      "elbow": [
+        11,
+        52
+      ]
+    },
+    "maxHipChestGap": 0.13
+  },
+  "backhand-serve": {
+    "key": "backhand-serve",
+    "title": {
+      "zh-CN": "发球基础",
+      "en-US": "Serve Fundamentals"
+    },
+    "sourceFile": "发球.json",
+    "peakOrder": [
+      "shoulder",
+      "hip",
+      "elbow",
+      "chest"
+    ],
+    "velocityBands": {
+      "hip": [
+        16,
+        72
+      ],
+      "chest": [
+        8,
+        36
+      ],
+      "shoulder": [
+        10,
+        46
+      ],
+      "elbow": [
+        21,
+        95
+      ]
+    },
+    "maxHipChestGap": 0.24
+  },
+  "forehand-volley": {
+    "key": "forehand-volley",
+    "title": {
+      "zh-CN": "正手截击",
+      "en-US": "Forehand Volley"
+    },
+    "sourceFile": "正手截击.json",
+    "peakOrder": [
+      "shoulder",
+      "hip",
+      "chest",
+      "elbow"
+    ],
+    "velocityBands": {
+      "hip": [
+        7,
+        31
+      ],
+      "chest": [
+        5,
+        21
+      ],
+      "shoulder": [
+        11,
+        50
+      ],
+      "elbow": [
+        12,
+        56
+      ]
+    },
+    "maxHipChestGap": 0.11
+  },
+  "backhand-volley": {
+    "key": "backhand-volley",
+    "title": {
+      "zh-CN": "反手截击",
+      "en-US": "Backhand Volley"
+    },
+    "sourceFile": "反手截击.json",
+    "peakOrder": [
+      "hip",
+      "elbow",
+      "shoulder",
+      "chest"
+    ],
+    "velocityBands": {
+      "hip": [
+        7,
+        30
+      ],
+      "chest": [
+        5,
+        21
+      ],
+      "shoulder": [
+        11,
+        50
+      ],
+      "elbow": [
+        13,
+        58
+      ]
+    },
+    "maxHipChestGap": 0.24
+  },
+  "forehand-slice": {
+    "key": "forehand-slice",
+    "title": {
+      "zh-CN": "正手削球",
+      "en-US": "Forehand Slice"
+    },
+    "sourceFile": "正手削球_standard.json",
+    "peakOrder": [
+      "elbow",
+      "chest",
+      "shoulder",
+      "hip"
+    ],
+    "velocityBands": {
+      "hip": [
+        8,
+        36
+      ],
+      "chest": [
+        4,
+        18
+      ],
+      "shoulder": [
+        9,
+        40
+      ],
+      "elbow": [
+        7,
+        32
+      ]
+    },
+    "maxHipChestGap": 0.21
+  },
+  "backhand-slice": {
+    "key": "backhand-slice",
+    "title": {
+      "zh-CN": "反手削球",
+      "en-US": "Backhand Slice"
+    },
+    "sourceFile": "反手削球.json",
+    "peakOrder": [
+      "elbow",
+      "shoulder",
+      "hip",
+      "chest"
+    ],
+    "velocityBands": {
+      "hip": [
+        7,
+        33
+      ],
+      "chest": [
+        4,
+        18
+      ],
+      "shoulder": [
+        9,
+        40
+      ],
+      "elbow": [
+        9,
+        40
+      ]
+    },
+    "maxHipChestGap": 0.1
+  },
+  "topspin-forehand": {
+    "key": "topspin-forehand",
+    "title": {
+      "zh-CN": "反手击球",
+      "en-US": "Backhand Groundstroke"
+    },
+    "sourceFile": "反手击球.json",
+    "peakOrder": [
+      "elbow",
+      "hip",
+      "chest",
+      "shoulder"
+    ],
+    "velocityBands": {
+      "hip": [
+        13,
+        61
+      ],
+      "chest": [
+        6,
+        28
+      ],
+      "shoulder": [
+        14,
+        63
+      ],
+      "elbow": [
+        13,
+        58
+      ]
+    },
+    "maxHipChestGap": 0.1
+  },
+  "serve-return-basics": {
+    "key": "serve-return-basics",
+    "title": {
+      "zh-CN": "单手反拍",
+      "en-US": "One-Handed Backhand"
+    },
+    "sourceFile": "单手反拍.json",
+    "peakOrder": [
+      "elbow",
+      "shoulder",
+      "chest",
+      "hip"
+    ],
+    "velocityBands": {
+      "hip": [
+        12,
+        54
+      ],
+      "chest": [
+        6,
+        27
+      ],
+      "shoulder": [
+        13,
+        59
+      ],
+      "elbow": [
+        15,
+        69
+      ]
+    },
+    "maxHipChestGap": 0.1
+  }
+}

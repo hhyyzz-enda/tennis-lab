@@ -1,0 +1,99 @@
+[
+  {
+    "id": "coach-zheng-manwei",
+    "name": "郑曼伟",
+    "avatar": "__coach_1__",
+    "phone": "13903355697",
+    "email": "",
+    "major": "运动训练专业",
+    "grade": "2023级",
+    "gender": "女",
+    "ethnicity": "汉族",
+    "politicalStatus": "中共预备党员",
+    "positions": [
+      "体育学院分团委副书记",
+      "关工委学生委员"
+    ],
+    "intro": {
+      "zh-CN": "运动训练专业 2023 级，长期参与网球与击剑相关训练和竞赛组织，具备较强的动作示范与实战转化能力。",
+      "en-US": "Grade 2023 sports training major with strong ability in technical demonstration and practical transfer."
+    },
+    "awards": [
+      "网球一级运动员",
+      "ITF&CTA Play&Stay 教练员",
+      "排球二级裁判",
+      "田径二级裁判",
+      "2023级新生军训团嘉奖",
+      "吉林省体育总会第一届（天定山杯）休闲健身大会优秀志愿者",
+      "2024年仲满杯击剑公开赛北京站甲组女子重剑团体亚军、个人第八名",
+      "2024年鸭绿江杯击剑公开赛 17+ 女子重剑组团体第二名",
+      "2024年吉林省公开击剑锦标赛甲组女子花剑团体第一名、个人第六名",
+      "第二十八届全国大学生击剑锦标赛丙A组女子佩剑团体第四名"
+    ]
+  },
+  {
+    "id": "coach-qiao-qi",
+    "name": "乔淇",
+    "avatar": "__coach_2__",
+    "phone": "",
+    "email": "",
+    "major": "运动训练专业",
+    "grade": "2025级",
+    "gender": "女",
+    "ethnicity": "汉族",
+    "politicalStatus": "共青团员",
+    "positions": [
+      "体育学院2024级年级长"
+    ],
+    "intro": {
+      "zh-CN": "运动训练专业 2025 级，具备网球教学与多项裁判资质，训练组织经验丰富，擅长青少年与基础进阶训练衔接。",
+      "en-US": "Grade 2025 sports training major with coaching and officiating certifications, experienced in beginner-to-intermediate training transition."
+    },
+    "awards": [
+      "国家一级网球运动员",
+      "国家D级网球教练员",
+      "全国PTR网球U10教练员",
+      "国家网球二级裁判员",
+      "国家篮球二级裁判员",
+      "国家排球二级裁判员",
+      "国家田径二级裁判员",
+      "吉林省长春市第一届积分赛第一名",
+      "吉林省锦标赛第一名",
+      "国家奖学金",
+      "第二十八届全国大学生击剑锦标赛丙A组女子佩剑团体第四名",
+      "东北师范大学港澳交流优秀助教"
+    ]
+  },
+  {
+    "id": "coach-liu-ruiying",
+    "name": "刘睿滢",
+    "avatar": "__coach_3__",
+    "phone": "",
+    "email": "",
+    "major": "运动训练专业",
+    "grade": "2024级",
+    "gender": "女",
+    "ethnicity": "汉族",
+    "politicalStatus": "",
+    "positions": [
+      "东北师范大学体育学院学生会女生部部员",
+      "体育学院2024级团委社团指导部部长",
+      "体育学院记者团团员",
+      "东北师范大学网球俱乐部指导员"
+    ],
+    "intro": {
+      "zh-CN": "具备网球运动员与教练员资质，兼具竞赛、裁判与校园训练组织经验，重视基础动作质量与训练执行标准。",
+      "en-US": "Certified tennis athlete and junior coach with competition, officiating, and training organization experience."
+    },
+    "awards": [
+      "国家二级网球运动员",
+      "国家一级网球运动员",
+      "网球初级教练员",
+      "排球二级裁判员",
+      "田径二级裁判员",
+      "二等奖学金",
+      "体育学院基本功大赛满分",
+      "军训连嘉奖"
+    ]
+  }
+]
